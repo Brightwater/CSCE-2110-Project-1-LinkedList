@@ -1,0 +1,3 @@
+lamp,guitar,bed,dog,bird,fish,cat,poster,couch,chair
+Anne:bed,dog,lamp,couch,chair
+Bonnie:lamp,guitar,speaker,bed,computer,cat

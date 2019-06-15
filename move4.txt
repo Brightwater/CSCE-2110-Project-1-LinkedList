@@ -1,0 +1,3 @@
+lamp,bed,dog
+Rachel:bed,dog,bird
+Monica:lamp,guitar,bed,computer

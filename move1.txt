@@ -1,0 +1,3 @@
+lamp,guitar,bed,dog,cat,computer
+Bill:bed,dog
+Michael:lamp,guitar,bed,computer

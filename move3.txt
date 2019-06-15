@@ -1,0 +1,5 @@
+lamp,guitar,bed,dresser,dog,bird,fish,cat,microwave,computer,speaker,poster,couch,chair,clock
+Frank:bed,dog,lamp
+Paul:bed,couch,chair,poster
+Mike:lamp,guitar,speaker
+Larry:lamp,bed,computer,cat
